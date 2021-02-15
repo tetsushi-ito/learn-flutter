@@ -17,19 +17,7 @@
 
 # 公式ドキュメントを全て読む
 
-## 目次ごとのメモ
-
-- Get started
-  - [メモ](../official-document/get-started/index.md)
-- Samples & tutorials
-  - [メモ](../official-document/samples-and-tutorials/index.md)
-- Development
-  - [メモ](../official-document/development)
-- Testing & debugging
-- Performatnce & optimization
-- Deployment
-- Resources
-- Reference
+- [メモ](../official-document)
 
 # 入門系記事インプット
 
